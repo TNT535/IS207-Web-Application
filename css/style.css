@@ -43,8 +43,8 @@ body{
     margin-right: 40px;
     height: 140px;
     float: left;
-    width: 212px;
-    background-image: url("../images/logo1.jpg");
+    width: 244px;
+	background-image: url("../images/logo1.jpg");
 	background-repeat: no-repeat;
 	background-size: contain;
 }
@@ -376,9 +376,12 @@ p.note{
 	position: absolute;
 	right: 11px;
 	top: 16px;
-}
+}*/
+
+
+
 .wrapper-dropdown .dropdown{
-    /* Size & position */
+     /*ize & position */
     position: absolute;
     top:38px;
     left: 0;

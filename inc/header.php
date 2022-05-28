@@ -54,9 +54,9 @@
 <body>
   <div class="wrap">
 		<div class="header_top">
-			<div class="logo">
-				<a href="index.php"></a>
-			</div>
+				<a href="index.php">
+					<div class ='logo'></div>
+				</a>
 			<div class="header_top_right">
 			   <div class="search_box">	
 				    <form action="search.php" method="POST">
