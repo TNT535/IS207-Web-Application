@@ -304,7 +304,7 @@
 		}
 		public function get2()
 		{
-			$query = "SELECT * FROM tbl_product WHERE brand_Id='5' ORDER BY prd_Id desc LIMIT 1";
+			$query = "SELECT * FROM tbl_product WHERE brand_Id='2' ORDER BY prd_Id desc LIMIT 1";
 			$result = $this->db->select($query);
 			return $result;
 		}
@@ -316,7 +316,7 @@
 		}
 		public function get4()
 		{
-			$query = "SELECT * FROM tbl_product WHERE brand_Id='8' ORDER BY prd_Id desc LIMIT 1";
+			$query = "SELECT * FROM tbl_product WHERE brand_Id='4' ORDER BY prd_Id desc LIMIT 1";
 			$result = $this->db->select($query);
 			return $result;
 		}
