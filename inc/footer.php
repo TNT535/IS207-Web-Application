@@ -1,9 +1,9 @@
-<!--footer starts from here-->
+</div>
 <footer class="footer">
 <div class="container bottom_border">
 <div class="row">
 <div class=" col-sm-4 col-md col-sm-4  col-12 col">
-<h5 class="headin5_amrc col_white_amrc pt2">Find us</h5>
+<h5 class="headin5_amrc col_white_amrc pt2">Địa chỉ</h5>
 <!--headin5_amrc-->
 <!-- <p class="mb10">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p> -->
 <p><i class="fa fa-building">Công ty Cổ phần Watch Store</i></p>
@@ -80,13 +80,14 @@
 </footer>
 
 
-<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<!-- <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script> -->
 
-    <script type="text/javascript">
-		$(document).ready(function() {
-			/*
+
+<script type="text/javascript">
+	$(document).ready(function() {
+		/*
 			var defaults = {
 	  			containerID: 'toTop', // fading element id
 				containerHoverID: 'toTopHover', // fading element hover id
@@ -94,26 +95,29 @@
 				easingType: 'linear' 
 	 		};
 			*/
-			
-			$().UItoTop({ easingType: 'easeOutQuart' });
-			
+
+		$().UItoTop({
+			easingType: 'easeOutQuart'
 		});
-	</script>
-    <a href="#" id="toTop" style="display: block;"><span id="toTopHover" style="opacity: 1;"></span></a>
-    <link href="css/flexslider.css" rel='stylesheet' type='text/css' />
-	  <script defer src="js/jquery.flexslider.js"></script>
-	  <script type="text/javascript">
-		$(function(){
-		  SyntaxHighlighter.all();
-		});
-		$(window).load(function(){
-		  $('.flexslider').flexslider({
+
+	});
+</script>
+<a href="#" id="toTop" style="display: block;"><span id="toTopHover" style="opacity: 1;"></span></a>
+<link href="css/flexslider.css" rel='stylesheet' type='text/css' />
+<script defer src="js/jquery.flexslider.js"></script>
+<script type="text/javascript">
+	$(function() {
+		SyntaxHighlighter.all();
+	});
+	$(window).load(function() {
+		$('.flexslider').flexslider({
 			animation: "slide",
-			start: function(slider){
-			  $('body').removeClass('loading');
+			start: function(slider) {
+				$('body').removeClass('loading');
 			}
-		  });
 		});
-	  </script>
+	});
+</script>
 </body>
+
 </html>

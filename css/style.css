@@ -2605,10 +2605,8 @@ footer {
     width: 100%;
     background-color: #23282D;
     background-image: linear-gradient(140deg, #918a89 0%, #6c6cc8 50%, #000000 75%);
-    /* background-image: linear-gradient(140deg, #898c91 0%, #717193 50%, #293035 75%); */
     min-height: 250px;
     padding: 10px 0px 25px 0px;
-    /* background-image: url(https://cdn.watchstore.vn/uploads/topBanner/Seiko-Prospex-LX-SNR035J-1640510028156.jpg); */
     background-position: right;
 }
 
