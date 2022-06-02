@@ -4,7 +4,7 @@
             <div class="box round first grid">
                 <h2>Chào quản lí</h2>
                 <div class="block">               
-                  Welcom to BookStore        
+                  Welcom to WatchStore        
                 </div>
             </div>
         </div>

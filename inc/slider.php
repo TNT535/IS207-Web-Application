@@ -18,7 +18,7 @@
 						 <a href="details.php?prdid=<?php echo $result1['prd_Id']?>"> <img src="admin/uploads/<?php echo $result1['prd_Image']?>" alt="" /></a>
 					</div>
 				    <div class="text list_2_of_1">
-						<h4 style="color:red">TIỂU THUYẾT</h4>
+						<h4 style="color:red">ĐỒNG HỒ NAM</h4>
 						<p><?php echo $result1['prd_Name']?></p>
 						<div class="button"><span><a href="details.php?prdid=<?php echo $result1['prd_Id']?>">chi tiết</a></span></div>		
 				   </div>
@@ -39,7 +39,7 @@
 						  <a href="details.php?prdid=<?php echo $result2['prd_Id']?>"><img src="admin/uploads/<?php echo $result2['prd_Image']?>" alt="" / ></a>
 					</div>
 					<div class="text list_2_of_1">
-						  <h4 style="color:red">LIGHT NOVEL</h4>
+						  <h4 style="color:red">ĐỒNG HỒ THÔNG MINH</h4>
 						  <p><?php echo $result2['prd_Name']?><br><br></p>
 						  <div class="button"><span><a href="details.php?prdid=<?php echo $result2['prd_Id']?>">chi tiết</a></span></div>
 					</div>
@@ -62,7 +62,7 @@
 						 <a href="details.php?prdid=<?php echo $result3['prd_Id']?>"> <img src="admin/uploads/<?php echo $result3['prd_Image']?>" alt="" /></a>
 					</div>
 				    <div class="text list_2_of_1">
-						<h4 style="color:red">SÁCH THAM KHẢO</h4>
+						<h4 style="color:red">ĐỒNG HỒ TRẺ EM</h4>
 						<p><?php echo $result3['prd_Name']?></p>
 						<div class="button"><span><a href="details.php?prdid=<?php echo $result3['prd_Id']?>">chi tiết</a></span></div>
 				   </div>
@@ -83,7 +83,7 @@
 						  <a href="details.php?prdid=<?php echo $result4['prd_Id']?>"><img src="admin/uploads/<?php echo $result4['prd_Image']?>" alt="" /></a>
 					</div>
 					<div class="text list_2_of_1">
-						  <h4 style="color:red">SÁCH GIÁO KHOA</h4>
+						  <h4 style="color:red">ĐỒNG HỒ NỮ</h4>
 						  <p><?php echo $result4['prd_Name']?><br><br><br></p>
 						  <div class="button"><span><a href="details.php?prdid=<?php echo $result4['prd_Id']?>">chi tiết</a></span></div>
 					</div>

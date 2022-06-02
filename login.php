@@ -42,9 +42,9 @@
     			</div>
             </form>
           </div>
-    	<div class="register_account">
+    	<div class="register_account" >
     		<h3>Đăng ký tài khoản</h3>
-    		<form action="" method="POST">
+    		<form action="" method="POST" style="margin-bottom: 350px;">
 		   			 <table>
 		   				<tbody>
 						<tr>
