@@ -44,7 +44,7 @@
           </div>
     	<div class="register_account" >
     		<h3>Đăng ký tài khoản</h3>
-    		<form action="" method="POST" style="margin-bottom: 350px;">
+    		<form action="" method="POST">
 		   			 <table>
 		   				<tbody>
 						<tr>
