@@ -18,8 +18,13 @@
    }
    if($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['submit']))
    {
-   	$quantily = $_POST['quantily'];
+	   if(Session::get('customer_login')==true){
+   		$quantily = $_POST['quantily'];
       $AddCart = $cart->add_cart($quantily, $id);
+	}
+	else {
+		header('Location:login.php');
+	}
    }
 
 ?>
