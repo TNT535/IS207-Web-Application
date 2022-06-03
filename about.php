@@ -7,7 +7,7 @@
     <div class="content">
     	<div class="support">
   			<div class="about_desc">
-  				<h2>Giới thiệu về Bookstore</h2>
+  				<h2>Giới thiệu về Watchstore</h2>
   				<p><span class="title_desc">THÔNG TIN GIỚI THIỆU CÔNG TY Watchstore</span></p>
                 <p><span>Nguồn nhân lực</span></p>
   				<p> - Để xây dựng Thương hiệu mạnh, một trong những định hướng quan trọng hàng đầu của Watchstore là chiến lược phát triển nguồn nhân lực - mấu chốt của mọi sự thành công.<br>

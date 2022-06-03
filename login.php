@@ -25,13 +25,13 @@
 
  <div class="main">
     <div class="content">
-    	 <div class="login_panel">
-        	<h3>Đăng nhập</h3>
-        	<p>Nhập Email và mật khẩu:</p>
+    	 <div class="login_panel" style="height:350px; margin-left: 150px;">
+        	<h3 style="text-align: center;">Đăng nhập</h3>
+        	<p style="text-align: center;">Nhập Email và mật khẩu:</p>
         	<form action="" method="POST">
                 <input name="email" type="text" class="field" placeholder="Enter your Email...">
                 <input name="password" type="password" class="field" placeholder="Enter your Password...">           
-                <div class="buttons"><div><input type="submit" name="login" class="grey" value="Đăng nhập">      
+                <div class="buttons"><div><input type="submit" name="login" class="grey" value="Đăng nhập" style="margin-left: 100px;">      
                 								<?php 
     													if(isset($loginCus))
     														{
@@ -42,9 +42,9 @@
     			</div>
             </form>
           </div>
-    	<div class="register_account" >
-    		<h3>Đăng ký tài khoản</h3>
-    		<form action="" method="POST" style="margin-bottom: 350px;">
+    	<div class="register_account" style="height:350px; width: 450px;">
+    		<h3 style="text-align: center;">Đăng ký tài khoản</h3>
+    		<form action="" method="POST" >
 		   			 <table>
 		   				<tbody>
 						<tr>
@@ -71,7 +71,7 @@
 		    	</td>
 		    </tr> 
 		    </tbody></table> 
-		   <div class="search"><div><input type="submit" name="submit" class="grey" value="Đăng ký"> 
+		   <div class="search"><div><input type="submit" name="submit" class="grey" style="margin-left:130px;" value="Đăng ký"> 
 		   		<?php 
     				if(isset($insertCus))
     				{
