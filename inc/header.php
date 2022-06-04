@@ -70,7 +70,7 @@
 			<div class="header_top_right">
 			   <div class="search_box">	
 				    <form action="search.php" method="POST">
-				    	<input type="text" name="keyword" placeholder="Tìm kiếm sản phẩm"/><input type="hidden" name="search" value=""><input type="image" src="images/searchh.png" width="30"/>		   			
+				    	<input type="text" name="keyword" placeholder="Tìm kiếm sản phẩm"/><input type="hidden" name="search" value=""><input type="image" src="images/searchh.png" width="50"/>		   			
 				    </form>
 			   </div>
 		   		<div class="shopping_cart">
@@ -134,7 +134,7 @@
 	 <div class="clear"></div>
  </div>
 <div style="font-family:Monda" class="menu">
-	<ul id="dc_mega-menu-orange" class="dc_mm-orange">
+	<ul id="dc_mega-menu-orange" class="dc_mm-orange" style="background-image: linear-gradient(140deg, #918a89 0%, #6c6cc8 50%, #000000 75%);">
 	  <li><a style="font-family:Monda" href="index.php">TRANG CHỦ</a></li>
 	  <li><a style="font-family:Monda" href="products.php">SẢN PHẦM</a> </li>
 	  <li><a style="font-family:Monda" href="topbrands.php">Top Brands</a></li>
