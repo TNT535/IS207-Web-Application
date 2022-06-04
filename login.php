@@ -42,15 +42,9 @@
     			</div>
             </form>
           </div>
-<<<<<<< HEAD
     	<div class="register_account" style="height:350px; width: 450px;">
     		<h3 style="text-align: center;">Đăng ký tài khoản</h3>
     		<form action="" method="POST" >
-=======
-    	<div class="register_account" >
-    		<h3>Đăng ký tài khoản</h3>
-    		<form action="" method="POST">
->>>>>>> origin/master
 		   			 <table>
 		   				<tbody>
 						<tr>
