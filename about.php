@@ -37,7 +37,7 @@
 				   		
 				</div>
                 	
-                <p><span>Giới thiệu Watchstore</span></p>
+                <p><span>Giới thiệu Watchstore </span></p>
                 <div class="images-bookstore">
                     <img src="images/nha-sach.jpg" alt="Hình ảnh cửa hàng đồng hồ">
                 </div>
