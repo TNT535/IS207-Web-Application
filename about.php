@@ -7,29 +7,33 @@
     <div class="content">
     	<div class="support">
   			<div class="about_desc">
-  				<h2>Giới thiệu về Watchstore</h2>
+  				<h2 style="text-align:center;">Giới thiệu về Watchstore</h2>
   				<p><span class="title_desc">THÔNG TIN GIỚI THIỆU CÔNG TY Watchstore</span></p>
-                <p><span>Nguồn nhân lực</span></p>
-  				<p> - Để xây dựng Thương hiệu mạnh, một trong những định hướng quan trọng hàng đầu của Watchstore là chiến lược phát triển nguồn nhân lực - mấu chốt của mọi sự thành công.<br>
-                    - Watchstore có hơn 2.200 CB-CNV, trình độ chuyên môn giỏi, nhiệt tình, năng động, chuyên nghiệp. Lực lượng quản lý Watchstore có thâm niên công tác, giỏi nghiệp vụ nhiều kinh nghiệm, có khả năng quản lý tốt và điều hành đơn vị hoạt động hiệu quả.<br>
-                    - Kết hợp tuyển dụng nguồn nhân lực đầu vào có chất lượng và kế hoạch bồi dưỡng kiến thức, rèn luyện bổ sung các kỹ năng và chuẩn bị đội ngũ kế thừa theo hướng chính qui thông qua các lớp học ngắn hạn, dài hạn; các lớp bồi dưỡng CB-CNV được tổ chức trong nước cũng như ở nước ngoài đều được lãnh đạo FAHASA đặc biệt quan tâm và tạo điều kiện triển khai thực hiện. Chính vì thế, trình độ chuyên môn của đội ngũ CB-CNV ngày càng được nâng cao, đáp ứng nhu cầu ngày càng tăng của công việc cũng như sự phát triển của xã hội đang trên đường hội nhập. <br></p>
+                <p style="text-align:center;"><span>ĐỘI NGŨ NHÂN VIÊN</span></p>
+  				<p> - Watchstore sở hữu đội ngũ nhân viên giàu kinh nghiệm trong ngành. Tất cả nhân viên khi bước vào ngôi nhà chung Watchstore đều trải qua khóa đào tạo bài bản từ kiến thức đồng hòa, văn hóa, cho đến chuyên môn.<br>
+                    - Song song với việc cử các đại diện tham dự những sự kiện về công nghệ và xu hướng mới, Watchstore cũng mời nhiều chuyên gia trong các lĩnh vực có liên quan để tổ chức cacskhoas đào tạo tập thể, tổ chức du lịch kết hợp teambuilding cho nhân viên. Từ đó, tạo ra môi trường làm việc hiệu quả, đoàn kết, thú vị, nâng cao đời sống tinh thần cho từng nhân viên.<br>
+                    - Đội ngũ nhân viên bán hàng ở Watchstore luôn mang trong mình văn hóa phục vụ 5C, đó là: "TINH THẦN CHỦ ĐỘNG-CƯỜI-CHÀO-CHĂM SÓC-CẢM ƠN". <br></p>
 
-                <p><span>Về hàng hóa</span></p>
-  				<p> - Mạng lưới phát hành của Công ty Watchstore rộng khắp trên toàn quốc, gồm 5 Trung tâm sách, 1 Xí nghiệp in và với gần 60 Nhà sách trải dọc khắp các tỉnh thành từ TP.HCM đến Thủ Đô Hà Nội, miền Trung, Tây Nguyên, miền Đông và Tây Nam Bộ như: Hà Nội, Vĩnh Phúc, Hải Phòng, Thanh Hóa, Hà Tĩnh, Huế, Đà Nẵng, Quảng Nam, Quảng Ngãi, Quy Nhơn, Nha Trang, Gia Lai, Đăklăk, Bảo Lộc - Lâm Đồng, Ninh Thuận, Bình Thuận, Bình Phước, Bình Dương, Đồng Nai, Vũng Tàu, Long An, Tiền Giang, Bến Tre, Vĩnh Long, Cần Thơ, Hậu Giang, An Giang, Kiên Giang, Sóc Trăng, Cà Mau.<br>
-                    - Sách quốc văn với nhiều thể loại đa dạng như sách giáo khoa – tham khảo, giáo trình, sách học ngữ, từ điển, sách tham khảo thuộc nhiều chuyên ngành phong phú: văn học, tâm lý – giáo dục, khoa học kỹ thuật, khoa học kinh tế - xã hội, khoa học thường thức, sách phong thủy, nghệ thuật sống, danh ngôn, sách thiếu nhi, truyện tranh, truyện đọc, từ điển, công nghệ thông tin, khoa học – kỹ thuật, nấu ăn, làm đẹp...  của nhiều Nhà xuất bản, nhà cung cấp sách có uy tín như: NXB Trẻ, Giáo Dục, Kim Đồng, Văn hóa -Văn Nghệ, Tổng hợp TP.HCM, Chính Trị Quốc Gia; Công ty Đông A, Nhã Nam, Bách Việt, Alphabook, Thái Hà, Minh Lâm, Đinh Tị, Minh Long, TGM, Sáng Tạo Trí Việt, Khang Việt, Toàn Phúc…<br></p>
+                <p style="text-align:center;"><span>QUY MÔ CÔNG TY</span></p>
+  				<p> - Số lượng showroom đang hoạt động: 20 cửa hàng.<br>
+                    - Diện tích mỗi showroom: 90-150 mét vuông.<br>
+                    - Sản phẩm kinh doanh: đồng hồ đeo tay nam nữ, đồng hồ thông minh, đồng hồ trẻ em.<br>
+                    - Nhân viên chính thức: 220-250 người.<br>
+                    - Phạm vi hoạt động: tất cả các tỉnh thành tại Việt Nam.<br></p>
 
-                <p><span>Hệ thống Nhà sách chuyên nghiệp</span></p>
-  				<p> - Công ty Watchstore chuyên kinh doanh: sách quốc văn, ngoại văn, văn hóa phẩm.<br>
-                    - Năm 2004 Công ty đã được Cục Sở hữu Trí tuệ Việt Nam công nhận sở hữu độc quyền tên thương hiệu Watchstore.<br>
-                    - Năm 2005, Công ty Watchstore được Trung tâm sách kỷ lục Việt Nam công nhận là đơn vị có hệ thống Nhà sách nhiều nhất Việt Nam; được Tạp chí The Guide công nhận Nhà sách Xuân Thu - đơn vị trực thuộc Công ty FAHASA là Nhà sách Ngoại văn đẹp nhất, lớn nhất, quy mô nhất, nhiều sách nhất ở Thành phố Hồ Chí Minh và cả nước.<br>
-                    - Năm 2012 Watchstore là Doanh nghiệp nằm trong Top 10 nhà bán lẻ hàng đầu Việt Nam. Đặc biệt năm 2006, 2009, 2012 FAHASA đạt danh hiệu Top 500 Nhà bán lẻ hàng đầu Châu Á Thái Bình Dương, giải thưởng được tạp chí Retail Asia (Singapore) bình chọn.</p>
+                <p style="text-align:center;"><span>HỆ THỐNG SHOWROOM</span></p>
+  				<p> - Watchstore luôn chú trọng phần hình ảnh, chúng tôi đầu tư rất mạnh mẽ vào hệ thống showroom theo tiêu chuẩn cao nhất Việt Nam hiện nay.<br>
+                    - Đồng hồ được trưng bày trong tủ riêng, theo chuẩn quy định của từng hãng.<br>
+                    - Không gian trưng bày rộng lớn, nội thất và thiết bị nhập khẩu từ châu Âu, diện tích trung bình 96.6 mét vuông/showroom.<br>
+                    - Vị trí các showroom tọa lạc tại các khu vực sầm uất của những thành phố lớn, nơi có các nút giao thông quan trọng, tiện lợi cho việc đi lại.</p>
 
-                <p><span>Kinh nghiệm hoạt động</span></p>
-  				<p> - Là đơn vị có gần 40 năm kinh doanh và phục vụ xã hội, nên Watchstore đã tích lũy được nhiều kinh nghiệm trong việc nghiên cứu thị trường, phân tích tài chính, định hướng phát triển, hoạch định chiến lược kinh doanh và khả năng tiếp thị giỏi… Đồng thời Watchstore còn có nhiều kinh nghiệm trong việc tổ chức các cuộc Hội thảo, Triển lãm và giới thiệu sách quốc văn, ngoại văn với qui mô lớn, ấn tượng.<br>
-                    - Watchstore luôn là đơn vị đi tiên phong trong nhiều hoạt động xã hội, điển hình là việc tham gia tổ chức các Hội sách ở TP.HCM như: Hội sách Thành Phố Hồ Chí Minh, Hội sách Thiếu nhi ngoại thành, Hội sách Mùa khai trường, Hội sách Học đường, Hội sách Trường Quốc tế… Nổi bật nhất là Hội sách Thành Phố Hồ Chí Minh, được định kỳ tổ chức 2 năm một lần. Đây là Hội sách có qui mô lớn, tầm ảnh hưởng rộng, đã để lại ý nghĩa kinh tế, văn hóa và xã hội sâu sắc. Hội sách không chỉ là nơi hội tụ văn hóa lý tưởng đối với người dân TP.HCM mà còn là một thông điệp văn hóa tôn vinh cho các hoạt động Xuất bản – Phát hành sách cả nước, nâng tầm cho việc giao lưu, trao đổi văn hóa với bạn bè thế giới, đồng thời góp phần đem sách - tri thức đến gần hơn với mọi tầng lớp nhân dân, phục vụ tốt hơn nhu cầu văn hóa tinh thần của xã hội</p>
+                <p style="text-align:center;"><span>VĂN HÓA LÀM VIỆC</span></p>
+  				<p> - Watchstore luôn đề cao những thành viên biết thấu cảm, biết tôn trọng, cư xử tử tế, hòa nhã, đúng mực,... Watchstore luôn Human Focus-tập trung vào con người là chính.<br>
+                    - Mô hình quản lý linh hoạt, tổ chức làm việc tập trung theo nhóm, trao quyền tự quản linh động. Đặc biệt là được khơi nguồn cảm hứng sáng tạo bằng cách gợi mở ý tưởng của mỗi cá nhân đang muốn cống hiến cho công việc từ đó thực hiện hóa những sáng tạo của từng thành viên giúp công việc ngày một tốt hơn.<br>
+                    - Tháo bỏ những khó khăn, những điều tưởng chừng như k thể trong ý tưởng của mỗi cá nhân. Có chế độ thưởng, phạt cụ thể trong từng hoạt động theo xu hướng "cộng sinh" để thúc đẩy quy trình làm việc hiệu quả hơn từ cố gắng của mỗi thành viên.</p>
                 
                 <div class="contact_inf">
-                        <p><span>Thông tin liên lạc</span></p>
+                        <p style="text-align:center;"><span>Thông tin liên lạc</span></p>
 						<p>Văn phòng chính: Tòa nhà Viettel, 285 Cách Mạng Tháng 8, Phường 12, Quận 10, Thành phố Hồ Chí Minh.</p>
 						<p>Văn phòng: 52 Út Tịch, Phường 4, Quận Tân Bình, Thành Phố Hồ Chí Minh.</p>
 				   		<p>Tổng đài hỗ trợ: 19001221</p>
@@ -37,12 +41,11 @@
 				   		
 				</div>
                 	
-                <p><span>Giới thiệu Watchstore </span></p>
-                <div class="images-bookstore">
-                    <img src="images/nha-sach.jpg" alt="Hình ảnh cửa hàng đồng hồ">
+                <p style="text-align:center;"><span>Giới thiệu Watchstore </span></p>
+                <div class="images-bookstore" style="margin-left: -126px;">
+                    <img src="./images/about.jpg" alt="Hình ảnh cửa hàng đồng hồ">
                 </div>
   			</div>
-  				<img src="web/images/contact.png" alt="" />
   			<div class="clear"></div>
   		</div>
       			
