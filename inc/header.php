@@ -35,12 +35,6 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
-<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
-<!-- <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script> -->
-<!------ Include the above in your HEAD tag ---------->
-
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
 
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all"/>
@@ -70,7 +64,7 @@
 			<div class="header_top_right">
 			   <div class="search_box">	
 				    <form action="search.php" method="POST">
-				    	<input type="text" name="keyword" placeholder="Tìm kiếm sản phẩm"/><input type="hidden" name="search" value=""><input type="image" src="images/searchh.png" width="50"/>		   			
+				    	<input type="text" name="keyword" placeholder="Tìm kiếm sản phẩm"/><input type="hidden" name="search" value=""><input type="image" src="images/searchh.png" width="30"/>		   			
 				    </form>
 			   </div>
 		   		<div class="shopping_cart">
