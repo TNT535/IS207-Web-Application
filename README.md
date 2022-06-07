@@ -18,7 +18,7 @@
 | 1   | 19522395 | Trương Đình Đức Trí | 19522395@gm.uit.edu.vn | [TruongDinhDTri](https://github.com/TruongDinhDTri) |
 | 2   | 19522351 | Trần Trung Tín      | 19522351@gm.uit.edu.vn | [TTTin239](https://github.com/TTTin239)             |
 | 3   | xxxxxxxx | Lê Vinh Quang       | xxxxxxxx@gm.uit.edu.vn | [lvquang0403](https://github.com/lvquang0403)       |
-| 4   | xxxxxxxx | Lê Văn Trí          | xxxxxxxx@gm.uit.edu.vn | [TNT535](https://github.com/TNT535)                 |
+| 4   | 19521043 | Lê Văn Trí          | 19521043@gm.uit.edu.vn | [TNT535](https://github.com/TNT535)                 |
 
 ## Thông tin đồ án
 
