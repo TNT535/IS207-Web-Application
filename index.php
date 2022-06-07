@@ -2,7 +2,13 @@
 		include 'inc/header.php';
 		include 'inc/slider.php';
 ?>
-
+<style>
+	.menu{
+		position: absolute;
+    z-index: 100;
+    width: 76%;
+	}
+</style>
  <div class="main">
     <div class="content">
     	<div class="content_top">
@@ -64,3 +70,4 @@
 <?php
 		include 'inc/footer.php';
 ?>
+
