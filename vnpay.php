@@ -5,16 +5,16 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-  
-$vnp_TmnCode = "QYBYUP0C"; //Website ID in VNPAY System
-$vnp_HashSecret = "QJCJWTXIWEVIHQBAAGYAWGUFNLLCOLUW"; //Secret key
+
+$vnp_TmnCode = "3S1TDH2W"; //Website ID in VNPAY System
+$vnp_HashSecret = "ZKBYWUMFRFNGXZMVRCWBVCZGGXEQLVPV"; //Secret key
 $vnp_Url = "https://sandbox.vnpayment.vn/paymentv2/vpcpay.html";
-$vnp_Returnurl = "http://localhost/website_mvc/onlinepay.php";
+$vnp_Returnurl = "http://localhost/IS207WebApplication/onlinepay.php";
 $vnp_apiUrl = "http://sandbox.vnpayment.vn/merchant_webapi/merchant.html";
 //Config input format
 //Expire
 $startTime = date("YmdHis");
-$expire = date('YmdHis',strtotime('+15 minutes',strtotime($startTime))); 
+$expire = date('YmdHis', strtotime('+15 minutes', strtotime($startTime)));
 
 // end config file
 $vnp_TxnRef = time(); //Mã đơn hàng. Trong thực tế Merchant cần insert đơn hàng vào DB và gửi mã này sang VNPAY
@@ -102,17 +102,16 @@ foreach ($inputData as $key => $value) {
 
 $vnp_Url = $vnp_Url . "?" . $query;
 if (isset($vnp_HashSecret)) {
-    $vnpSecureHash =   hash_hmac('sha512', $hashdata, $vnp_HashSecret);//  
+    $vnpSecureHash =   hash_hmac('sha512', $hashdata, $vnp_HashSecret); //  
     $vnp_Url .= 'vnp_SecureHash=' . $vnpSecureHash;
 }
-$returnData = array('code' => '00'
-    , 'message' => 'success'
-    , 'data' => $vnp_Url);
-    if (isset($_POST['redirect'])) {
-        header('Location: ' . $vnp_Url);
-        die();
-    } else {
-        echo json_encode($returnData);
-    }
-?>
-
+$returnData = array(
+    'code' => '00', 'message' => 'success', 'data' => $vnp_Url
+);
+if (isset($_POST['redirect'])) {
+    header('Location: ' . $vnp_Url);
+    die();
+} else {
+    echo json_encode($returnData);
+}
+// ?vnp_Amount=1098900000&vnp_BankCode=NCB&vnp_BankTranNo=VNP13765081&vnp_CardType=ATM&vnp_OrderInfo=Thanh+toán+VNPAY&vnp_PayDate=20220606210823&vnp_ResponseCode=00&vnp_TmnCode=3S1TDH2W&vnp_TransactionNo=13765081&vnp_TransactionStatus=00&vnp_TxnRef=1654524482&vnp_SecureHash=acd819a00bb31835411a2fe0864dfba7be66d8e48250c0039193b0ff379dd91a0adad8f94b1759a001ecd1049e1654b511e5acda933a0b6d422a83109cc5e6fc
