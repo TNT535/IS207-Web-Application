@@ -76,17 +76,17 @@ ul.dc_mm-orange li a {
     min-width: 190px;
 }
 
-::-webkit-input-placeholder {
+input[id^="search_header"]::-webkit-input-placeholder {
     /* Edge */
     color: rgb(255, 255, 255);
 }
 
-:-ms-input-placeholder {
+input[id^="search_header"]:-ms-input-placeholder {
     /* Internet Explorer 10-11 */
     color: rgb(255, 255, 255);
 }
 
-::placeholder {
+input[id^="search_header"]::placeholder {
     color: rgb(255, 255, 255);
 }
 
@@ -95,6 +95,10 @@ ul.dc_mm-orange li a {
         width: 86%;
         padding: 0 2%;
     }
+}
+
+#search_header {
+    color: white;
 }
 
 @media only screen and (max-width: 1024px) {
@@ -138,3 +142,12 @@ ul.dc_mm-orange li a {
     padding-top: 25px;
 }
 
+@media only screen and (max-width: 640px){
+    .shopping_cart {
+        width: 27.66%;
+        margin-left: 300px;
+    }
+    .header_in_menu{
+        width: 100%;
+    }
+    }

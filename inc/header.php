@@ -106,7 +106,7 @@
 			<div class="header_in_menu">
 				<div class="search_box">
 					<form action="search.php" method="POST">
-						<input type="text" name="keyword" placeholder="Tìm kiếm sản phẩm"><input type="hidden" name="search" value=""><input type="image" src="images/white-search.png" width="45">
+						<input type="text" id="search_header" name="keyword" placeholder="Tìm kiếm sản phẩm"><input type="hidden" name="search" value=""><input type="image" src="images/white-search.png" width="45">
 					</form>
 				</div>
 				<div class="shopping_cart">

@@ -127,7 +127,7 @@ body{
 	position:relative;
 	margin-left:175px;
 	margin-top:20px;
-	background: url(../images/cart.png) 0 0 no-repeat;
+	/* background: url(../images/cart.png) 0 0 no-repeat; */
 	z-index: 99;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
@@ -2720,3 +2720,16 @@ footer p {
     height: 20px;
     text-align: center;
 }
+
+span.error {
+    display: inline-block;
+    margin: 15px 0px;
+    width: 100%;
+    text-align: center;
+}
+
+.images_1_of_2 img {
+    height: 160px;
+    width: auto;
+}
+

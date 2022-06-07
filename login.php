@@ -25,7 +25,7 @@
 
  <div class="main">
     <div class="content">
-    	 <div class="login_panel" style="height:350px; margin-left: 150px;">
+    	 <div class="login_panel" style="height:400px; margin-left: 150px;">
         	<h3 style="text-align: center;">Đăng nhập</h3>
         	<p style="text-align: center;">Nhập Email và mật khẩu:</p>
         	<form action="" method="POST">
@@ -42,7 +42,7 @@
     			</div>
             </form>
           </div>
-    	<div class="register_account" style="height:350px; width: 450px;">
+    	<div class="register_account" style="height:400px; width: 450px;">
     		<h3 style="text-align: center;">Đăng ký tài khoản</h3>
     		<form action="" method="POST" >
 		   			 <table>

@@ -13,7 +13,7 @@
 
 
 			?>
-					<li><img height="600px" src="admin/uploads/<?php echo $result['slide_Image'] ?>" alt="" /><span class="flex-caption">Write something here</span></a></li>
+					<li><img height="600px" src="admin/uploads/<?php echo $result['slide_Image'] ?>" alt="" /><span class="flex-caption"></span></a></li>
 			<?php
 				}
 			}

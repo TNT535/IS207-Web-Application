@@ -35,7 +35,7 @@
 <ul class="footer_ul_amrc">
     <li><a href="login.php">Đăng kí</a></li>
     <li><a href="cart.php">Xem giỏ hàng</a></li>
-    <li><a href="wishlist.php">Sản phẩm yêu thích</a></li>
+    <li><a href="favorite.php">Sản phẩm yêu thích</a></li>
     <li><a href="profile.php">Chi tiết tài khoản</a></li>
     <li><a href="contact.php">Liên hệ</a></li>
 </ul>
